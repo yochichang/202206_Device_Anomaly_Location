@@ -15,11 +15,27 @@ UI使用者介面、裝置定位
 ## 需求分析
 - 資料流程圖(DFD)
 <div align="center">
-    <img src="" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B3%87%E6%96%99%E6%B5%81%E7%A8%8B%E5%9C%96(DFD).jpg" width="500" />
 </div>
+
 - 實體關聯圖(ERD)
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B3%87%E6%96%99%E6%B5%81%E7%A8%8B%E5%9C%96(DFD).jpg" width="500" />
+</div>
+
 - 狀態轉換圖
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B3%87%E6%96%99%E6%B5%81%E7%A8%8B%E5%9C%96(DFD).jpg" width="500" />
+</div>
+
 - 企業流程圖
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B3%87%E6%96%99%E6%B5%81%E7%A8%8B%E5%9C%96(DFD).jpg" width="500" />
+</div>
+
 - 需求規格書
+  <div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B3%87%E6%96%99%E6%B5%81%E7%A8%8B%E5%9C%96(DFD).jpg" width="500" />
+</div>
 
 
