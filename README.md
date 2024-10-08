@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="" width="500" />
+</div>
+
 # 軟工專案 - 裝置定位異常偵測系統
 #### 組員: 張祐琪、陳濰暄、葉之霆、關羽辰、張耕瑋 ####
 ## 負責內容
@@ -35,14 +39,28 @@ UI使用者介面、裝置定位
 
 - 需求規格書(附件: 需求規格書.doc)
 
-<div align="center">
-    <img src="" width="500" />
-</div>
-
 ## UML圖
 <div align="center">
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/UML.png" width="500" />
 </div>
 
 ## 實作結果
+- 登入頁面
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.png" width="500" />
+</div>
 
+- 裝置管理
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E7%AE%A1%E7%90%86.jpg" width="300" />
+</div>
+
+-裝置定位
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="500" />
+</div>
+
+-距離計算
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2.jpg" width="500" />
+</div>
