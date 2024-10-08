@@ -10,7 +10,7 @@ UI使用者介面、裝置定位
 ## 需求分析
 > 資料流程圖(DFD)
 ![image](https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E5%8B%95%E6%A9%9F2.jpg)
-> 實體關聯圖(ERD)
-> 狀態轉換圖
-> 企業流程圖
-> 需求規格書
+- 實體關聯圖(ERD)
+- 狀態轉換圖
+- 企業流程圖
+- 需求規格書
