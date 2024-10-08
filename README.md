@@ -80,7 +80,7 @@ UI使用者介面、裝置定位
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E9%81%B8%E6%93%87%E5%88%AA%E9%99%A4%E8%A3%9D%E7%BD%AE.jpg" width="500" />
 </div>
 
-- 距離計算
+- 距離計算頁面/距離超過設定值/距離在設定值內
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97.jpg" width="500" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97.jpg" width="800" />
 </div>
