@@ -45,7 +45,9 @@ UI使用者介面、裝置定位
 </div>
 
 ## 實作結果
-- 登入頁面
+- 首頁
+
+- 註冊頁面
 <div align="center">
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.png" width="500" />
 </div>
