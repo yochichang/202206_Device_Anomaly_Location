@@ -46,10 +46,18 @@ UI使用者介面、裝置定位
 
 ## 實作結果
 - 首頁
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E9%A6%96%E9%A0%81.jpg" width="500" />
+</div>
 
 - 註冊頁面
 <div align="center">
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%BB%E5%86%8A%E4%BB%8B%E9%9D%A2.png" width="500" />
+</div>
+
+- 登入頁面/登入後首頁
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E7%99%BB%E5%85%A5%E9%A0%81%E9%9D%A2%E5%8F%8A%E7%99%BB%E5%85%A5%E5%BE%8C%E9%A6%96%E9%A0%81.jpg" width="500" />
 </div>
 
 - 裝置管理
@@ -60,6 +68,16 @@ UI使用者介面、裝置定位
 - 裝置定位
 <div align="center">
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="300" />
+</div>
+
+- 新增裝置
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E6%96%B0%E5%A2%9E%E8%A3%9D%E7%BD%AE.jpg" width="500" />
+</div>
+
+- 選擇和刪除裝置
+<div align="center">
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E9%81%B8%E6%93%87%E5%88%AA%E9%99%A4%E8%A3%9D%E7%BD%AE.jpg" width="500" />
 </div>
 
 - 距離計算
