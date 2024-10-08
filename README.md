@@ -82,5 +82,5 @@ UI使用者介面、裝置定位
 
 - 距離計算
 <div align="center">
-    <img src="image/計算距離.jpg" width="300" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97.jpg" width="500" />
 </div>
