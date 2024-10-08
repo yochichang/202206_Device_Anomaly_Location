@@ -55,12 +55,12 @@ UI使用者介面、裝置定位
     <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E7%AE%A1%E7%90%86.jpg" width="300" />
 </div>
 
--裝置定位
+- 裝置定位
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="500" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="300" />
 </div>
 
--距離計算
+- 距離計算
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2.jpg" width="500" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A8%88%E7%AE%97%E8%B7%9D%E9%9B%A2.jpg" width="300" />
 </div>
