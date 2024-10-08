@@ -1,0 +1,28 @@
+<!-- 測試瀏覽器能否使用
+<script>  
+    if(navigator.geolocation){  
+        alert("恭禧, 您的瀏覽器有支援!");  
+    }  
+</script>
+-->
+<!-- 抓api資料
+<script>  
+    navigator.geolocation.getCurrentPosition(successCallback);  
+    function successCallback(position){  
+        var msg='';  
+        for(var prop in position.coords){  
+            msg+=prop+':'+position.coords[prop]+'\n';  
+        }  
+        alert(msg);  
+    }  
+</script>   
+-->
+<script>  
+    navigator.geolocation.getCurrentPosition(successCallback);  
+    function successCallback(position){  
+        var lat = position.coords.latitude;  
+        var long = position.coords.longitude;  
+        var url = "http://maps.google.com/?q=" + lat + "," + long;  
+        document.write("<a href='" + url + "' target='_blank'>檢視地圖</a>");  
+    }  
+</script>  
