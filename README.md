@@ -41,13 +41,13 @@ UI使用者介面、裝置定位
 
 ## UML圖
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/UML.png" width="500" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/UML.png" width="600" />
 </div>
 
 ## 實作結果
 - 首頁
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E9%A6%96%E9%A0%81.jpg" width="500" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E9%A6%96%E9%A0%81.jpg" width="200" />
 </div>
 
 - 註冊頁面
@@ -62,12 +62,12 @@ UI使用者介面、裝置定位
 
 - 裝置管理
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E7%AE%A1%E7%90%86.jpg" width="300" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E7%AE%A1%E7%90%86.jpg" width="200" />
 </div>
 
 - 裝置定位
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="300" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%A3%9D%E7%BD%AE%E5%AE%9A%E4%BD%8D.jpg" width="200" />
 </div>
 
 - 新增裝置
@@ -82,5 +82,5 @@ UI使用者介面、裝置定位
 
 - 距離計算頁面/距離超過設定值/距離在設定值內
 <div align="center">
-    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97.jpg" width="800" />
+    <img src="https://github.com/yochichang/202206_Device_Anomaly_Location/blob/main/image/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97.jpg" width="750" />
 </div>
